@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MeTown_ProcMesh.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{5DAFC0F8-3713-4A0D-82A1-E925F0552770}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MeTown_ProcMesh.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MeTown_ProcMeshEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{697D9FE7-D69A-4826-A6CA-96F818354926}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MeTown_ProcMesh">
+      <UniqueIdentifier>{614D9BEC-299A-4300-8C3C-C803A442D0EE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MeTown_ProcMesh\MeTown_ProcMesh.Build.cs">
+      <Filter>Source\MeTown_ProcMesh</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MeTown_ProcMesh\MeTown_ProcMesh.cpp">
+      <Filter>Source\MeTown_ProcMesh</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MeTown_ProcMesh\MeTown_ProcMesh.h">
+      <Filter>Source\MeTown_ProcMesh</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MeTown_ProcMesh\MeTown_ProcMeshCharacter.cpp">
+      <Filter>Source\MeTown_ProcMesh</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MeTown_ProcMesh\MeTown_ProcMeshCharacter.h">
+      <Filter>Source\MeTown_ProcMesh</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MeTown_ProcMesh\MeTown_ProcMeshGameMode.cpp">
+      <Filter>Source\MeTown_ProcMesh</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MeTown_ProcMesh\MeTown_ProcMeshGameMode.h">
+      <Filter>Source\MeTown_ProcMesh</Filter>
+    </ClInclude>
+    <Filter Include="Source\MeTown_ProcMesh\Private">
+      <UniqueIdentifier>{BBBA6700-3454-4B14-A82E-F56D331D06AD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MeTown_ProcMesh\Private\ProcMeshManager.cpp">
+      <Filter>Source\MeTown_ProcMesh\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MeTown_ProcMesh\Private\ProcMeshManager.h">
+      <Filter>Source\MeTown_ProcMesh\Private</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

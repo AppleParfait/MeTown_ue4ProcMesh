@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\user\\Documents\\Unreal Projects\\MeTown_ProcMesh\\Source\\MeTown_ProcMesh\\MeTown_ProcMesh.Build.cs",
+		"C:\\Users\\user\\Documents\\Unreal Projects\\MeTown_ProcMesh\\Source\\MeTown_ProcMesh.Target.cs",
+		"C:\\Users\\user\\Documents\\Unreal Projects\\MeTown_ProcMesh\\Source\\MeTown_ProcMeshEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
